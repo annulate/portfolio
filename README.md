@@ -17,15 +17,6 @@ This portfolio highlights my work in:
 
 **Currently seeking:** 8-month IWSP placement (Aug 2026) in IT Product Management, Data Analytics or Frontend Development
 
-## ✨ Features
-
-- **Responsive Design** - Optimized for desktop, tablet, and mobile
-- **Smooth Animations** - Intersection Observer API for scroll-triggered animations
-- **Clean Code** - Semantic HTML5, modern CSS3, vanilla JavaScript
-- **Fast Loading** - No frameworks, minimal dependencies
-- **Accessible** - ARIA labels and semantic structure
-- **SEO Optimized** - Meta tags and proper heading hierarchy
-
 ## 🛠️ Built With
 
 - **HTML5** - Semantic markup
@@ -119,7 +110,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-**[View Live Portfolio](https://annulate.github.io/portfolio/)** | **[View Linktree to download specific Resumes](https://linktr.ee/chervelletan)** | **[Connect on LinkedIn](https://linkedin.com/in/chervelletan/)**
+**[View Live Portfolio](https://annulate.github.io/portfolio/)** | **[View Linktree for specific Resumes](https://linktr.ee/chervelletan)** | **[Connect on LinkedIn](https://linkedin.com/in/chervelletan/)**
 
 Made with ❤️ by Chervelle Tan
 
