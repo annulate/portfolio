@@ -12,9 +12,10 @@ This portfolio highlights my work in:
 - 📱 Mobile Development (Flutter/Dart)
 - 🤖 Embedded Systems (Raspberry Pi, IoT)
 - 🌱 Social Innovation & Sustainability
-- 💼 Product Management & Technical Consulting
+- 💼 Product Management
+- 🧍‍♀ Human Computer Interaction
 
-**Currently seeking:** 8-month IWSP placement (Aug 2026) in IT Project Management or Technical Consulting
+**Currently seeking:** 8-month IWSP placement (Aug 2026) in IT Product Management, Data Analytics or Frontend Development
 
 ## ✨ Features
 
@@ -118,7 +119,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-**[View Live Portfolio](https://annulate.github.io/portfolio/)** | **[Download Resume](#)** | **[Connect on LinkedIn](https://linkedin.com/in/chervelletan/)**
+**[View Live Portfolio](https://annulate.github.io/portfolio/)** | **[View Linktree to download specific Resumes](https://linktr.ee/chervelletan)** | **[Connect on LinkedIn](https://linkedin.com/in/chervelletan/)**
 
 Made with ❤️ by Chervelle Tan
 
