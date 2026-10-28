@@ -78,8 +78,10 @@ php -S localhost:8000
 
 ## 🏆 Highlighted Projects
 
-### CareHaven (In Progress)
-Flutter mobile app for Lion Befrienders helping caregivers track care recipient vitals and health data.
+### CareHaven ✅
+Caregiving platform for Lion Befrienders (completed April 2026). Caregivers and seniors pair by QR code to share vitals, daily check-ins and care tasks in real time, with an AI Health Briefing, Telegram SOS alerts and geofenced safe zones. Built with Flutter, .NET, Go, gRPC and Firebase.
+**My role:** Lead Frontend Designer. Built Figma prototypes, ran Agile/Scrum with a 20+ item backlog, and bridged developers and community partners.
+[GitHub](https://github.com/hoshinoht/Carehaven) · [User Manual](https://docs.google.com/document/d/1rzrpTtBR5jTd6ZV1JU3dB9lztsV91263KA8TCeDRfBQ/edit?usp=sharing)
 
 ### International Hub in Central Scotland 🏆
 Award-winning sustainable airport design project - Best Sustainability Award from University of Glasgow & SIT.
