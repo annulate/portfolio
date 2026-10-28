@@ -15,7 +15,7 @@ This portfolio highlights my work in:
 - 💼 Product Management
 - 🧍‍♀ Human Computer Interaction
 
-**Currently seeking:** 8-month IWSP placement (Aug 2026) in IT Product Management, Data Analytics or Frontend Development
+**Currently seeking:** Full-time roles in Data Analytics and Business Intelligence from April 2027
 
 ## 🛠️ Built With
 
