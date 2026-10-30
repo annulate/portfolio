@@ -15,7 +15,7 @@ This portfolio highlights my work in:
 - 💼 Product Management
 - 🧍‍♀ Human Computer Interaction
 
-**Currently seeking:** Full-time roles in Data Analytics and Business Intelligence from April 2027
+**Currently seeking:** Full-time roles in Data Analytics, Business Intelligence and Product from April 2027
 
 ## 🛠️ Built With
 
